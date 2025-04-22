@@ -1,0 +1,5 @@
+pysentimiento
+ntscraper 
+vaderSentiment 
+nltk
+openai
